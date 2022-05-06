@@ -1,7 +1,7 @@
 # MintedWithLovelace-smithy
 MintedWithLovelace "smithy" with tools for Cardano NFT (CNFT) prep work, JSON prep, etc
 
-Utilities added:
-- Simple find/replace/rename which will rename JSON files within a folder, sans any space or #, and replace given placeholders for asset and display names within.
-- Simple file renamer to remove spaces and # from all filenames within a folder.
-- Custom 'files' and 'mediaType' removal for JSON files produced with "baggage" code unneeded for Cardano metadata.
+### [https://github.com/MadeWithLovelace/MintedWithLovelace-smithy/tree/main/tools](Tools)
+- find_replace_rename.py will rename JSON files within a folder, removing any space or #, and replace given placeholders for asset and display names within, using user-provided placeholders for each.
+- filename_cleanup.py will remove spaces and # from all filenames within a folder.
+- find_remove_object.py will remove all instances of an object with a label matching the user-provided label.
