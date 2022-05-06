@@ -25,4 +25,4 @@ Access the latest test/refinery version of Minted9
 
 
 ### About MintedWithLovelace
-Learn more about MintedWithLovelace, a Cardano DApp community project at [MintedWithLovelace](https://mintedwithlovelace.com)
+Learn more about MintedWithLovelace, a Cardano DApp community project at [MintedWithLovelace.com](https://mintedwithlovelace.com)
