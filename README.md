@@ -11,6 +11,7 @@ Scripts to help prepare your CNFT JSON and image files. This is an actively deve
 #### [Cardano Node Setup](https://github.com/MadeWithLovelace/MintedWithLovelace-smithy/tree/main/cardano-node-setup)
 This easy-to-follow guide/scripts combo will walk you through setting up a full Cardano node within a few minutes via some very simple steps.
 
+
 ### Additional Resources and Guides
 
 #### [Minted9 User Guide](https://github.com/MadeWithLovelace/MintedWithLovelace/blob/main/dapp/How-To-Use-Minted.md)
@@ -22,4 +23,6 @@ Access the latest stable version of Minted9
 #### [Minted9 DApp - Refinery](https://github.com/MadeWithLovelace/MintedWithLovelace/tree/main/dapp/refinery)
 Access the latest test/refinery version of Minted9
 
-[Learn more about MintedWithLovelace](https://mintedwithlovelace.com)
+
+### About MintedWithLovelace
+Learn more about MintedWithLovelace, a Cardano DApp community project at [MintedWithLovelace](https://mintedwithlovelace.com)
