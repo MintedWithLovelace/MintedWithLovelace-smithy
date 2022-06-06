@@ -22,7 +22,7 @@ sudo apt upgrade -y
 ```
 
 #### Step 1
-Before you run the script of your choice below, first run: [prepInstall.sh](https://github.com/MadeWithLovelace/MintedWithLovelace/raw/main/dapp/resources/helpers/prepSetup.sh)
+Before you run the script of your choice below, first run: [prepSetup.sh](https://raw.githubusercontent.com/MadeWithLovelace/MintedWithLovelace-smithy/main/cardano-node-setup/prepSetup.sh)
 
 #### Step 2
 Enter the appropriate command into your terminal for either mainnet or testnet:
@@ -61,7 +61,7 @@ sudo reboot now
 Remember to reboot after these prereq commands before running the script!
 
 #### Step 4
-Finally, run [setupNode.sh](https://github.com/MadeWithLovelace/MintedWithLovelace/raw/main/dapp/resources/helpers/setupNode.sh)
+Finally, run [setupNode.sh](https://raw.githubusercontent.com/MadeWithLovelace/MintedWithLovelace-smithy/main/cardano-node-setup/setupNode.sh)
 
 This may take a while to complete. After it finishes, check for any errors in the terminal output and report them in our Discord.
 
