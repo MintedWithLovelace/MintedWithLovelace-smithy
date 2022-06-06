@@ -1,15 +1,15 @@
 ### Install Cabal
 cd $HOME
 ghcup upgrade
-ghcup install cabal 3.4.0.0
-ghcup set cabal 3.4.0.0
+ghcup install cabal 3.6.2.0
+ghcup set cabal 3.6.2.0
 
 ### Install GHC
 ghcup install ghc 8.10.7
 ghcup set ghc 8.10.7
 
 ### Update Cabal and verify versions
-### IMPORTANT: Cabal should be at version 3.4.0.0 and GHC should be at version 8.10.7
+### IMPORTANT: Cabal should be at version 3.6.2.0 and GHC should be at version 8.10.7
 cabal update
 cabal --version
 ghc --version
