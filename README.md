@@ -14,14 +14,14 @@ This easy-to-follow guide/scripts combo will walk you through setting up a full 
 
 ### Additional Resources and Guides
 
-#### [Minted9 User Guide](https://github.com/MadeWithLovelace/MintedWithLovelace/blob/main/dapp/How-To-Use-Minted.md)
-Detailed guide to using Minted9 DApp
+#### [Minted User Guide](https://github.com/MadeWithLovelace/MintedWithLovelace/blob/main/dapp/How-To-Use-Minted.md)
+Detailed guide to using Minted DApp
 
-#### [Minted9 DApp - Latest](https://github.com/MadeWithLovelace/MintedWithLovelace/tree/main/dapp)
-Access the latest stable version of Minted9
+#### [Official Latest MintedWithLovelace DApp Release](https://github.com/MadeWithLovelace/MintedWithLovelace/tree/main/dapp)
+Access the latest stable version of Minted
 
-#### [Minted9 DApp - Refinery](https://github.com/MadeWithLovelace/MintedWithLovelace/tree/main/dapp/refinery)
-Access the latest test/refinery version of Minted9
+#### [The Refinery](https://github.com/MadeWithLovelace/MintedWithLovelace/tree/main/dapp/refinery)
+Access the latest test/refinery pre-release version(s) of Minted
 
 
 ### About MintedWithLovelace
