@@ -5,7 +5,7 @@ export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/usr/local/lib/pkgconfig:$PKG_CONFIG_PATH"
 
 ## Steps to Update
-
+```
 sudo apt-get update -y
 sudo apt-get install automake build-essential pkg-config libffi-dev llvm libgmp-dev libssl-dev libtinfo-dev libsystemd-dev zlib1g-dev make g++ tmux git jq wget libncursesw5 libtool autoconf liblmdb-dev -y
 sudo apt update
@@ -71,5 +71,5 @@ sudo cp $(find $HOME/git/cardano-node2/dist-newstyle/build -type f -name "cardan
 
 cardano-node version
 cardano-cli version
-
+```
 # Reboot
