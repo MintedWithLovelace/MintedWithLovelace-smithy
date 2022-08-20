@@ -20,6 +20,18 @@ git checkout 66f017f1
 make
 sudo make install
 
+### Install libsecp256k1 (if not previously installed)
+cd $HOME/git
+git clone https://github.com/bitcoin-core/secp256k1
+cd secp256k1
+git checkout ac83be33
+./autogen.sh
+./configure --enable-module-schnorrsig --enable-experimental
+make
+make check
+sudo make install
+sudo ldconfig
+
 ### IMPORTANT: Answer NO to installing the haskell-language-server (HLS) and NO to stack; Answer YES to automatically add the required PATH variable
 echo "Answer YES to automatically add the required PATH variable; Answer NO to installing the haskell-language-server (HLS) and NO to stack"
 curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
