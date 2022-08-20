@@ -1,4 +1,4 @@
-## Cardano Node Upgrade Steps and Scripts
+## Cardano Node Upgrade Steps and Scripts + Vasil PreProd Instructions
 
 Steps for upgrading to latest Cardano node and cli, based on the "Coincashew" configuration.
 
