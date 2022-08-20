@@ -112,5 +112,9 @@ SOCKET_PATH=\${DIRECTORY}/db-preprod/socket
 CONFIG=\${DIRECTORY}/config.json
 ```
 ...
+- Lastly, you'll need to update the following line for each campaign found in your `~/.MintedWithLovelace/mwl-db.json` file:
+```
+"tnetmagic": "1"
+```
 
 After you make the above changes to your system, reboot or manually export the new system variables for them to take effect in your terminal, and you will be able to begin using the new PreProd network!
