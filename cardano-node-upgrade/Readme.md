@@ -102,7 +102,7 @@ export TESTNET_MAGIC_NUM=1
 ```
 export CARDANO_NODE_SOCKET_PATH=/home/user/cardano-my-node/db-preprod/socket
 ```
-- Download the [tar file containing the PreProd config files](https://github.com/MadeWithLovelace/MintedWithLovelace-smithy/raw/main/cardano-node-upgrade/PreProd_configFiles.tar.xz) and extract them into your `~/cardano-my-node` directory.
+- Download the [tar file containing the PreProd config files](https://github.com/MadeWithLovelace/MintedWithLovelace-smithy/raw/main/cardano-node-upgrade/PreProd_configFiles.tar.xz) (these are directly from https://github.com/gitmachtl/scripts) and extract them into your `~/cardano-my-node` directory.
 - In your `~/cardano-my-node/startCardanoNode.sh` file, find and update the following lines:
 ...
 ```
