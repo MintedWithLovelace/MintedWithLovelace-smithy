@@ -1,0 +1,3 @@
+Credit to https://medium.com/@tonite/finding-the-invite-code-a-user-used-to-join-your-discord-server-using-discord-py-5e3734b8f21f for this simple bot.
+
+To use set your token in `.env` file and make sure to do `pip install -U discord.py` as a minimum requirement. After you create the bot on discord and generate a new token, updating it to your .env file, simply invite your bot to your server and then run the script to watch and log incoming members and invites used (including who created the invite for each). Bot must be running to (in python) to catch and log new joins.
